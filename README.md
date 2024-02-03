@@ -4,7 +4,7 @@ Just for learning purpose.
 
 ## Tech Stack used
 
-NextJS 14, App Router, Supabase
+NextJS 14, App Router, Prisma, Tailwind, Supabase
 
 ### Color used in twitter app
 
