@@ -9,8 +9,10 @@ NextJS 14, App Router, Prisma, Tailwind, Supabase
 ### Color used in twitter app
 
 -primary-color: rgb(29, 155, 240);
+-secondary-color: rgb(21,32,43);
 -primary-color-dark: rgb(26,140,216);
 -gray-color: rgba(247,249,249,0.1);
 -white-color: rgb(247, 249, 249);
 -gray-color-dark: rgb(139, 152, 165);
 -shadow: rgba(0, 0, 0, 0.08) 0px 8px 28px;
+-gray-light: rgb(56, 68, 77)
